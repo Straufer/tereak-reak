@@ -1,0 +1,20 @@
+.body {
+    background: linear-gradient(90deg, black, rgb(23, 23, 79));
+    font-family: Arial;
+    color: white;
+}
+
+.wrapper {
+    width: 900px;
+    text-align: justify;
+}
+
+
+.link-about {
+    text-decoration: none;
+}
+
+.link-about:hover {
+    color: red;
+}
+

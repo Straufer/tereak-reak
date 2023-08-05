@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(90deg, black, rgb(15, 15, 38));
+    color: white;
+}
+
+.link-home {
+    text-decoration: none;
+    
+}
+
+.link-home:hover {
+    color: red;    
+}
